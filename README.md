@@ -25,8 +25,8 @@
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/alex-mamolo-2a1b57222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: amamolo9986@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alex-mamolo-2a1b57222/" target="_blank"><img height="25" align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: amamolo9986@yahoo.com"><img  height="25" width="60" align="center" src="https://s.yimg.com/ny/api/res/1.2/vlvd6fw1UHI9T_3GaNPzDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02OTI-/https://s.yimg.com/os/creatr-uploaded-images/2019-09/a929b8f0-dd65-11e9-bffe-b90463fd5188" target="_blank"></a>
  </br>
 </br>
  
